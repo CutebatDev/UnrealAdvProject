@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/Parts/BP_WeaponPart.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/Bases/BP_GunBase.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/BP_PickUp.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/Materials/MAT_PickUpSphere.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/__ExternalActors__/Maps/BaseMap/E/9K/1MY40QYU25LSCX0P1E362C.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/BP_PickUp_Barrel_1.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/BP_PickUp_Barrel_2.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/__ExternalActors__/Maps/BaseMap/1/83/CJHHH9RKGVQ2YWNFGBLLHC.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/__ExternalActors__/Maps/BaseMap/4/Q8/PX0H1P93ZYMP1YF0FEUKAA.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/Parts/BP_PickUp.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/Parts/BP_PickUp_Barrel_1.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/Parts/BP_PickUp_Barrel_2.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/Parts/BP_PickUp_Stock_1.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/__ExternalActors__/Maps/BaseMap/9/SR/8UJKTB1RL3XTI9LAE1BFCY.uasset",
+				"D:/Unreal Projects/UnrealAdvProject/ScrapGunsmith/Content/BluePrints/Weapons/Parts/BP_Stock_1.uasset"
+			]
+		}
+	]
+}
